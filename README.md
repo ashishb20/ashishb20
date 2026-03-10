@@ -11,6 +11,9 @@
 </p>
 
 ## 📈 Contribution Graph
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashishb20&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=20" height="300px"/></a><a href="https://github.com/ashishb20/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=ashishb20&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/>
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishb20&bg_color=0d1117&color=00FFBF&line=00FFBF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="95%"/>
 </p>
@@ -132,6 +135,9 @@
 </div>
 
 ---
+<img alt="Ashish's Profile Summary!" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishb20&theme=transparent" height="190px"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishb20&theme=transparent&utcOffset=5.3" height="200px">
+
+![](https://github-profile-trophy.vercel.app/?username=ashishb20&theme=darkhub&column=9&no-frame=true&no-bg=true)
 
 ## 🤝 Let's Connect!
 
@@ -143,6 +149,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
+  
   <a href="mailto:ashish.jdh2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -150,6 +157,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
