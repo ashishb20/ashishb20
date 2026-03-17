@@ -3,7 +3,7 @@
 - 🔭 Currently exploring **Backend Development**
 - 🌱 Always learning something new — this week it's probably something different!
 
-## Projects
+## Current Projects
 - **[RecallOps](https://recallops-1.vercel.app/login)** - Spaced repetition task manager(based on 1-4-7 method).
 - **[NewsMania](https://newsmania-0bu0.onrender.com/)** - A Real time news dashboard that aggregate major headlines from INDIA's top newspapers .
 - **[LinkShrink](https://link-shrink-one.vercel.app/)** - A URL shortner service with QR code download feature.
