@@ -3,6 +3,13 @@
 - 🔭 Currently exploring **Backend Development**
 - 🌱 Always learning something new — this week it's probably something different!
 
+## Projects
+- **[RecallOps](https://recallops-1.vercel.app/login)** - Spaced repetition task manager(based on 1-4-7 method).
+- **[NewsMania](https://newsmania-0bu0.onrender.com/)** - A Real time news dashboard that aggregate major headlines from INDIA's top newspapers .
+- **[LinkShrink](https://link-shrink-one.vercel.app/)** - A URL shortner service with QR code download feature.
+
+---
+
 <p align="center">
   <a href="https://leetcode.com/ashish_bairwa/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/ashish_bairwa/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
@@ -11,7 +18,10 @@
 </p>
 
 ## 📈 Contribution Graph
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Aryan's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashishb20&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=20" height="300px"/></a><a href="https://github.com/ashishb20/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=ashishb20&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/>
+<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Ashish's streak stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashishb20&theme=react&date_format=j%20M%5B%20Y%5D&card_width=470&background=121212&border=transparent&border_radius=20" height="300px"/></a><a href="https://github.com/ashishb20/github-readme-stats"><img alt="Ashish's Top Languages" src="https://github-readme-stats-main-puce.vercel.app/api/top-langs/?username=ashishb20&layout=compact&theme=react&exclude_repo=github-readme-stats&bg_color=121212&size_weight=0.5&count_weight=0.5&langs_count=6&border_color=00000000&border_radius=15" height="150px"/> -->
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=ashishb20&theme=shadow_blue&hide_border=true)<br/>
 
 
 <p align="center">
