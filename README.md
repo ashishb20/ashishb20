@@ -1,5 +1,5 @@
 # Hi I'm Ashish
-### Self-taught Software Developer
+### BS Mathematics & Scientific Computing — IIT Kanpur | Building production-grade backend systems
 - 🔭 Currently exploring **Backend Development**
 - 🌱 Always learning something new — this week it's probably something different!
 
